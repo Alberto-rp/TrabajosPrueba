@@ -3,5 +3,5 @@ class Programa{
 		int num = 7;
 		if(num == 7)
 			System.out.println("Es 7!");
-	}
-}
+	}//fin de main
+}//fin de class
